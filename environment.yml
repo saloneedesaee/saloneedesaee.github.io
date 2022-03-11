@@ -11,5 +11,3 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - string
-  - random
